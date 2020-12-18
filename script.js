@@ -46,5 +46,3 @@ function butt_ok() {
 
     window.alert(`E-mail: ${email} / Password: ${password}`);
 }
-
-// Teste
