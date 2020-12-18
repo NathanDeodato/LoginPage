@@ -1,0 +1,60 @@
+body {
+    background-color: #F5F5F5;
+}
+
+header h2 {
+    margin-bottom: 140px;
+    text-align: center;
+}
+
+.container-login {
+    border: 3px solid #1C1C1C;
+    border-radius: 10px;
+    box-shadow: 5px 4px 4px black;
+
+    margin: auto;
+    width: 350px;
+    height: 200px;
+    text-align: center;
+}
+.container-login .email, .password {
+    color: black;
+    background-color: #F5F5F5;
+
+    width: 200px;
+    height: 17px;
+    margin: 3px;
+    
+    border: 3px solid #363636;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px black;
+    
+    text-align: center;
+}
+.container-login .email {
+    margin-top: 5px;
+    margin-left: 20px;
+}
+    ::placeholder {
+        color: #1C1C1C;
+    }
+
+.container-login .button {
+    color: black;
+    background-color: #F5F5F5;
+    
+    width: 70px;
+    height: 25px;
+    text-align: center;
+
+    border: 3px solid #363636;
+    border-radius: 5px;
+    
+    margin-top: 20px;
+}
+
+
+footer {
+    margin-top: 170px;
+    text-align: center;
+}
