@@ -27,4 +27,4 @@
 
 <br>
 
-<footer aling="center" >&copy; NT Developer</footer>
+<footer align="center" >&copy; NT Developer</footer>
