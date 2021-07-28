@@ -6,12 +6,12 @@
     Login screen, containing only 2 fields, one for email and one for password.
 </p>
 
-<br>
+---
 
 ### Image Project
 ![Login-v1](/Img/Login-page-v1.png)
 
-<br>
+---
 
 ### 🛠 Technology
 
@@ -19,7 +19,7 @@
 <li> Javascript
 <li> CSS
 
-<br>
+---
 
 ### ✔ Status
 
